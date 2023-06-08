@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(0, 255, 234);
+    color: white;
+    height: 125px;
+    
+}
+h1 { 
+
+}
+
+a{
+    border: white;
+    border-radius: 5px;
+}
+
+  p {
+    text-align: center;
+    color: grey
+  }
+  
+
+  a {
+    padding: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: white;
+    color: darkolivegreen;
+    text-decoration: none;
+    
+  }
+  
+  
+  * {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+  }
+  
+  
+  h4 {
+    text-align: center;
+  }
+  
+  
+  
