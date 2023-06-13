@@ -4,7 +4,7 @@ img{
   margin-left: auto;
   border: 3px solid #ddd;
   border-radius: 50%;
-  border-color: aqua;
+  border-color: aquamarine;
   padding: 5px;
   width: 70%;
 }
@@ -53,7 +53,7 @@ h3{
   justify-content: right;
   color: white;
   background-color: red;
-  border-radius: 5px;
+  border-radius: 10px;
 } 
 
 .logo {
