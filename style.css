@@ -2,8 +2,9 @@ img{
   display: block;
   margin-right: auto;
   margin-left: auto;
-  border: 1px solid #ddd;
+  border: 3px solid #ddd;
   border-radius: 50%;
+  border-color: aqua;
   padding: 5px;
   width: 70%;
 }
@@ -36,11 +37,13 @@ h3{
   display: flex;
   align-items: center;
   justify-content: left;
+  background-color: rgb(135, 31, 135);
+  border-radius: 10px;
 }
 
 .article-2-header {
   padding-left: 0px;
-  color: green;
+  color: aquamarine;
 }
 
 
