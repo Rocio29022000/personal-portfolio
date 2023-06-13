@@ -5,7 +5,8 @@ To begin with the Home page will only be a short version covering each section, 
 Initially the home page will be based around my CV (This is not what the final model will look like, but will be like this to start getting the hang of things and build up on it slowly)
 
 ### What will I be using?
-Atm I have added some CSS (initial) Lab 05
+Atm I have added some CSS (initial) Lab 05.
+I will add some prompts for the JavaScript lab 06 but I will likely remove these in the future.
 
 
 ### Applying html to the structure

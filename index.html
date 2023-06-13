@@ -12,12 +12,23 @@
     <script src="https://kit.fontawesome.com/8b619bc50e.js" crossorigin="anonymous"></script>
     
 </head>
+
 <body>
     <header>
         <i class="fa-solid fa-bars"></i> <!-- This will have a pop-up nav when clicked-->
+        
         <h1>
+            <script>
+                var name= prompt("What is your Name?", "");
+                confirm("Hi, " + name + ". Just a moment... you are about to come into my personal portfolio, are you sure you want to contiune?");
+                var colour = prompt("Great choice! Quick question...in your opinion, what is the best colour for a profile picture border? (Personal suggestion: pink or aquamarine)")
+                document.write("Hello " + name);
+                document.bgColor = colour
+            </script>
+            
             Welcome to my Personal Portfolio page!
         </h1>
+        
 
     </header>
 
@@ -39,7 +50,7 @@
                         Find out more...
                     </h3>
                 </div>
-                <div class="contact-button">
+                <button class="contact-button">
                     <div class="logo">
                         <i class="fa-solid fa-envelope"></i>
                     </div>
@@ -48,8 +59,9 @@
                             Contact me
                         </h4>
                     </div>
+                </button>
 
-                </div>
+                
             </div>
         </article>
 
