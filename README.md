@@ -16,6 +16,11 @@ use these links if need help with html syntax:
 * [HTML: Docs ](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 * [HTML: Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+[personal portfolio example 1](https://www.thaisafernandes.com/)
+[personal portfolio example 2](https://elezea.com/blog/)
+[personal portfolio example 3](https://music.elezea.com/about/)
+[personal portfolio example 4](https://dribbble.com/shots/14084662-Personal-Portfolio-App)
+
 <!-- This will be an image that when you click it will show you the content page (atm its just an image)
         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onlinewebfonts.com%2Ficon%2F278661&psig=AOvVaw3WRdTBxd7xhdRtujpqNVKO&ust=1686320700963000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD1_6Tws_8CFQAAAAAdAAAAABAE"
              alt="Content"> -->
